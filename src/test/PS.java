@@ -7,6 +7,8 @@ public class PS {
 	
 	public void doThis() {
 		System.out.println("I'm the parent class");
+		System.out.println("I'm the parent class");
+		System.out.println("I'm the parent class");
 	}
 	
 	@BeforeTest
