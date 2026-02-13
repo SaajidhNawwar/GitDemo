@@ -14,6 +14,8 @@ public class PS {
 	@BeforeTest
 	public void beforeRun() {
 		System.out.println("Run me first coming from Parent");
+		System.out.println("Run me first coming from Parent");
+		System.out.println("Run me first coming from Parent");
 	}
 	
 	@AfterTest
