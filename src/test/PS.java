@@ -22,6 +22,7 @@ public class PS {
 	public void afterRun() {
 		System.out.println("Run me last coming from Parent");
 		System.out.println("Develop branch testing 1 from GitDemo User");
+		System.out.println("Develop branch testing 2 from GitX User");
 	}
 
 }
